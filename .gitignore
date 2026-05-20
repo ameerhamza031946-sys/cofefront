@@ -1,0 +1,5 @@
+# Ignore local configurations and caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
